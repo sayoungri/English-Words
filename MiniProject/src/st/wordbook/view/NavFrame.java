@@ -19,7 +19,6 @@ public class NavFrame extends JFrame {
       super("파일 탐색기");
       setBounds(x, y, w, h);
       
-      
       //송현
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       setLayout(null);
