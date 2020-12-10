@@ -33,8 +33,8 @@ public class NavFrame extends JFrame implements ActionListener {
 		JTextField input = new JTextField();
 		input.setBounds(70, 10, 530, 40);
 
-		JButton input = new JButton("new button");
-		input.setBounds(70, 10, 530, 40);
+//		JButton input = new JButton("new button");
+//		input.setBounds(70, 10, 530, 40);
 
 		JButton btn = new JButton("Browser");
 		btn.setBounds(610, 10, 100, 40);
