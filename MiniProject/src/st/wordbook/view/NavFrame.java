@@ -24,7 +24,7 @@ public class NavFrame extends JFrame implements ActionListener {
       setResizable(false);
       
 		//송현
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
 		setLayout(null);
 		
 		JLabel label1 = new JLabel("검색위치: ");
